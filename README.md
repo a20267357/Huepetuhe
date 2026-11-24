@@ -27,9 +27,8 @@ H1: superficie intervenida en 2016 =/ superficie intervenida en 2025
 
 Datos utilizados: archivo .shp del área de estudio, catálogo de imágenes satelitales de Planetary Computer, clasificación de MapBiomas.
 
-Cómo operar el código: 
+#Cómo operar el código: 
 
-Cómo operar el código: 
 
 primero debe abrir el notebook “1.Huepetuhe.ipynb”, ahí debe descargar los archivos del área de estudio para intentar el archivo shp posterior a instalar y descargar las librerías. Este paso es obligatorio, aunque puede realizarlo con otra área de su interés.
 
