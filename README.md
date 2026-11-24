@@ -30,7 +30,7 @@ Datos utilizados: archivo .shp del área de estudio, catálogo de imágenes sate
 # Cómo operar el código: 
 
 
-primero debe abrir el notebook “1.Huepetuhe.ipynb”, ahí debe descargar los archivos del área de estudio para intentar el archivo shp posterior a instalar y descargar las librerías. Este paso es obligatorio, aunque puede realizarlo con otra área de su interés.
+primero debe abrir el notebook “1.Huepetuhe.ipynb”, ahí debe descargar los archivos del área de estudio para intentar el archivo shp posterior a instalar y descargar las librerías. Este paso es obligatorio y puede obtenerlo de https://drive.google.com/drive/folders/13iwoURBlOjHKPnEHj7kD8s4TBB3s-zD7?hl=es , aunque puede realizarlo con otra área de su interés.
 
 Al terminar con este proceso deberá correr el resto de comandos, puede modificar la fecha de su interés o la cantidad de nubes que cubren su área de interés.
 
